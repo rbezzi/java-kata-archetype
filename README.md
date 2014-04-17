@@ -1,5 +1,6 @@
 Usage:
 
+```sh
 mvn archetype:generate -B \
 	-DarchetypeGroupId=com.rbezzi \
 	-DarchetypeArtifactId=java-kata-archetype \
@@ -7,3 +8,4 @@ mvn archetype:generate -B \
 	-DgroupId=my.groupid \
 	-DartifactId=my-artifactid \
 	-Dversion=0.0.1-SNAPSHOT
+```
