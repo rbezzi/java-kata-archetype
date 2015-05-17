@@ -34,6 +34,13 @@
 			<artifactId>mockito-core</artifactId>
 			<version>1.10.19</version>
 			<scope>test</scope>
+			<!-- see https://github.com/hamcrest/hamcrest-junit/issues/2 -->
+			<exclusions>
+				<exclusion>
+					<groupId>org.hamcrest</groupId>
+					<artifactId>hamcrest-core</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 	</dependencies>
 
