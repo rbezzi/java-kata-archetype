@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.test;
+package ${package};
 
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
