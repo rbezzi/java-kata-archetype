@@ -9,3 +9,5 @@ mvn archetype:generate -B \
 	-DartifactId=my-artifactid \
 	-Dversion=0.0.1-SNAPSHOT
 ```
+
+
