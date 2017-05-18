@@ -4,10 +4,10 @@ Usage:
 mvn archetype:generate -B \
 	-DarchetypeGroupId=com.rbezzi \
 	-DarchetypeArtifactId=java-kata-archetype \
-	-DarchetypeVersion=0.0.2-SNAPSHOT \
+	-DarchetypeVersion=1.0.0 \
 	-DgroupId=my.groupid \
 	-DartifactId=my-artifactid \
-	-Dversion=0.0.1-SNAPSHOT
+	-Dversion=1.0.0-SNAPSHOT
 ```
 
 
