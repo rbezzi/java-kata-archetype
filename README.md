@@ -4,7 +4,7 @@ Usage:
 mvn archetype:generate -B \
 	-DarchetypeGroupId=com.rbezzi \
 	-DarchetypeArtifactId=java-kata-archetype \
-	-DarchetypeVersion=1.0.0 \
+	-DarchetypeVersion=1.0.1 \
 	-DgroupId=my.groupid \
 	-DartifactId=my-artifactid \
 	-Dversion=1.0.0-SNAPSHOT
